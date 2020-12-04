@@ -10,7 +10,7 @@ function printXes(sizeOfx, charValue) {
 	for (let i = 0; i < sizeOfx; i++) {
 		// create the elements first
 		li = li + " ";
-		//console.log(l1); 
+		//console.log(li); 
 
 	}
 
